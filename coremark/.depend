@@ -1,0 +1,46 @@
+core_list_join.o: core_list_join.c \
+  /home/liuxin/vbox_share/orpmon/include/coremark.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h
+core_matrix.o: core_matrix.c \
+  /home/liuxin/vbox_share/orpmon/include/coremark.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h
+core_state.o: core_state.c \
+  /home/liuxin/vbox_share/orpmon/include/coremark.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h
+cvt.o: cvt.c
+fmod.o: fmod.c
+core_main.o: core_main.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/coremark.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h
+core_portme.o: core_portme.c \
+  /home/liuxin/vbox_share/orpmon/include/coremark.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h \
+  /home/liuxin/vbox_share/orpmon/include/spr-defs.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h
+core_util.o: core_util.c \
+  /home/liuxin/vbox_share/orpmon/include/coremark.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h
+ee_printf.o: ee_printf.c \
+  /home/liuxin/vbox_share/orpmon/include/coremark.h \
+  /home/liuxin/vbox_share/orpmon/include/core_portme.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/uart.h

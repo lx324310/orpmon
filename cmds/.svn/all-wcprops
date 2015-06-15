@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/467/openrisc/trunk/bootloaders/orpmon/cmds
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ocsvn/openrisc/!svn/ver/464/openrisc/trunk/bootloaders/orpmon/cmds/load.c
+END
+eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/cmds/eth.c
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/467/openrisc/trunk/bootloaders/orpmon/cmds/global.c
+END
+touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/cmds/touch.c
+END
+atabug.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/cmds/atabug.c
+END
+dhry.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/cmds/dhry.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/cmds/cpu.c
+END
+camera.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/cmds/camera.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/467/openrisc/trunk/bootloaders/orpmon/cmds/memory.c
+END
+hdbug.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/cmds/hdbug.c
+END
+dhry.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ocsvn/openrisc/!svn/ver/175/openrisc/trunk/bootloaders/orpmon/cmds/dhry.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/175/openrisc/trunk/bootloaders/orpmon/cmds/Makefile
+END

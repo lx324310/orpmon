@@ -1,0 +1,32 @@
+net.o: net.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/net.h bootp.h tftp.h rarp.h \
+  arp.h /home/liuxin/vbox_share/orpmon/include/eth.h
+tftp.o: tftp.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/net.h tftp.h bootp.h
+bootp.o: bootp.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/net.h bootp.h tftp.h arp.h
+rarp.o: rarp.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/net.h bootp.h rarp.h tftp.h
+arp.o: arp.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/net.h bootp.h tftp.h arp.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h

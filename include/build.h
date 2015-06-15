@@ -1,0 +1,1 @@
+#define BUILD_VERSION "2015年 06月 05日 星期五 14:49:40 CST"

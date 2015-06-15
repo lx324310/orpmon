@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/467/openrisc/trunk/bootloaders/orpmon/common
+END
+dosfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/common/dosfs.c
+END
+screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/common/screen.c
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/common/ctype.c
+END
+cprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/common/cprintf.c
+END
+or32.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/175/openrisc/trunk/bootloaders/orpmon/common/or32.S
+END
+font.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/common/font.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/common/string.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/467/openrisc/trunk/bootloaders/orpmon/common/common.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/467/openrisc/trunk/bootloaders/orpmon/common/Makefile
+END
+support.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ocsvn/openrisc/!svn/ver/406/openrisc/trunk/bootloaders/orpmon/common/support.c
+END

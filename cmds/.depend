@@ -1,0 +1,61 @@
+dhry.o: dhry.c dhry.h /home/liuxin/vbox_share/orpmon/include/spr-defs.h \
+  /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h
+eth.o: eth.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/uart.h \
+  /home/liuxin/vbox_share/orpmon/include/eth.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/spr-defs.h \
+  /home/liuxin/vbox_share/orpmon/include/net.h
+cpu.o: cpu.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/spr-defs.h
+load.o: load.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/flash.h \
+  /home/liuxin/vbox_share/orpmon/include/net.h \
+  /home/liuxin/vbox_share/orpmon/include/eth.h \
+  /home/liuxin/vbox_share/orpmon/include/uart.h \
+  /home/liuxin/vbox_share/orpmon/include/dosfs.h \
+  /home/liuxin/vbox_share/orpmon/include/typedefs.h \
+  /home/liuxin/vbox_share/orpmon/include/spr-defs.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/vbox_share/orpmon/include/int.h \
+  /home/liuxin/vbox_share/orpmon/include/uart.h \
+  /home/liuxin/vbox_share/orpmon/include/screen.h \
+  /home/liuxin/vbox_share/orpmon/include/spr-defs.h
+memory.o: memory.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h \
+  /home/liuxin/vbox_share/orpmon/include/spr-defs.h
+global.o: global.c /home/liuxin/vbox_share/orpmon/include/common.h \
+  /home/liuxin/vbox_share/orpmon/include/board.h \
+  /home/liuxin/vbox_share/orpmon/include/support.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stdarg.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/stddef.h \
+  /home/liuxin/minsoc/tools/or32-elf/bin/../lib/gcc/or32-elf/4.2.2/include/limits.h \
+  /home/liuxin/vbox_share/orpmon/include/string.h
